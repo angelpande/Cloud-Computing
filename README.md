@@ -5,6 +5,7 @@
 
 ## API Endpoints
 https://have-api-tumfaqz26a-et.a.run.app
+http://0.0.0.0:5000
 
 ### REGISTER
 - **URL:** `/register`
@@ -63,3 +64,17 @@ https://have-api-tumfaqz26a-et.a.run.app
 #### EXERCISE RECOMMENDATION
 - **URL:** `/recommendations/exercise`
 - **Method:** `GET`
+
+### ENV 
+DATABASE_URL=
+
+DB_HOST=
+DB_PORT=
+DB_NAME=
+DB_USER=
+DB_PASS=
+
+ACCESS_TOKEN_KEY=
+ACCESS_TOKEN_AGE=
+REFRESH_TOKEN_KEY=
+
