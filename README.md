@@ -65,7 +65,7 @@ http://0.0.0.0:5000
 - **URL:** `/recommendations/exercise`
 - **Method:** `GET`
 
-### ENV 
+## ENV 
 DATABASE_URL=
 
 DB_HOST=
