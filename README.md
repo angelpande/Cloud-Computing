@@ -4,8 +4,8 @@
 ![CLOUD ARCHITECTURE](https://drive.google.com/uc?id=1OSr7exJibzfFsOpqdzJLpI_xNbLviNwt)
 
 ## API Endpoints
-https://have-api-tumfaqz26a-et.a.run.app
-http://0.0.0.0:5000
+- https://have-api-tumfaqz26a-et.a.run.app
+- http://0.0.0.0:5000
 
 ### REGISTER
 - **URL:** `/register`
